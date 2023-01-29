@@ -1,0 +1,12 @@
+/* .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+} */
+
+.navbar-inner{
+    background-image: url(assets/Header.jpeg);
+    background-repeat: no-repeat;
+}
