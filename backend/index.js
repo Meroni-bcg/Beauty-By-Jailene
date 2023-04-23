@@ -10,7 +10,8 @@ app.get('/', (req,res) => {
 
 //Middleware
 app.use(() => {
-    
+    console.log(req.path, req.method)
+    next()
 })
 
 //Listens To Port
