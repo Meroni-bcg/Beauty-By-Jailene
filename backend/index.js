@@ -1,5 +1,8 @@
 require('dotenv').config
+
 const express = require('express')
+const mongoose = require('mongoose')
+
 //Runs Express
 const app = express()
 
