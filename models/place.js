@@ -10,5 +10,5 @@ const placeSchema = new Schema({
         lat: { type: Number, required:true },
         lng: { type: Number, required:true }
     },
-    
-})
+    creator: { type: mongoose.Type.ObjectId, required: true, ref: 'User' }
+});
