@@ -1,0 +1,1 @@
+//Vite. js is a rapid development tool for modern web projects.
