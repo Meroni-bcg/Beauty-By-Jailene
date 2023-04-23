@@ -12,3 +12,5 @@ const placeSchema = new Schema({
     },
     creator: { type: mongoose.Type.ObjectId, required: true, ref: 'User' }
 });
+
+placeSchema.index({ location: '2dsphere' });
