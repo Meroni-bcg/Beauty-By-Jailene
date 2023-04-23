@@ -1,5 +1,5 @@
 import {useContext, useState} from "react";
-import {UserContext} from "../userContext.js";
+import {UserContext} from "../userContext.jsx";
 import {Link, Navigate, useParams} from "react-router-dom";
 //import axios from "axios";
 import AccountNav from "../accountNav.jsx";
