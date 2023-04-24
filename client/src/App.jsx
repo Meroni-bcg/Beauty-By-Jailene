@@ -15,7 +15,7 @@ function App() {
 </svg>
 <span className='font-bold text-xl'>Beauty by Jailene</span>
     </a>
-    <div className='flex border border-gray-300 rounded-full py-2 px-4'>
+    <div className='flex gap-2 border border-gray-300 rounded-full py-2 px-4'>
       <div>Book </div>
       <div className="border-l border-gray-300"></div>
       <div>Location </div>
