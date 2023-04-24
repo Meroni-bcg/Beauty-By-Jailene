@@ -18,10 +18,10 @@ app.get('/',(req,res) => {
 })
 
 //connect to db
-mongoose.connect((process.env.MONGO_URI))
+mongoose.connect('mongodb+srv://tmaddox85:Ilovetech@mernapp.i3q8cgr.mongodb.net/?retryWrites=true&w=majority')
     .then(() => {
         app.listen(process.env.PORT, () => {
-            console.log('connected to db and listening on PORT', process.env.PORT)
+            console.log('connected to db and listening on PORT 3000', process.env.PORT)
         })
     })
     .catch((error) => {
@@ -30,7 +30,3 @@ mongoose.connect((process.env.MONGO_URI))
 
 process.env
 
-/*Listens To Port
-app.listen(3000,() => {
-    console.log('listening on PORT 3000')
-})*/
