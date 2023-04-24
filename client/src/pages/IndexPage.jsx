@@ -1,4 +1,5 @@
 import {Link} from "react-router-dom";
+import LoginPage from "./LoginPage";
 export default function indexPage() {
     return (
         <header className="p-4 flex justify-between gap-5">
@@ -9,7 +10,7 @@ export default function indexPage() {
 <span className='font-bold text-xl'>Beauty by Jailene</span>
     </a>
       {/* search  */}
-    <div className='flex gap-2 border border-gray-300 rounded-full py-3 px-4 shadow-md shadow-gray-300'>
+    <div className='flex gap-2 border border-gray-300 bg-orange-100 rounded-full py-3 px-4 shadow-md shadow-gray-300'>
       <div><a href= 'https://app.squarespacescheduling.com/schedule.php?owner=26626301'>Book</a> </div>
       <div className="border-l border-gray-300"></div>
       <div><a href= 'https://www.google.com/maps/dir//1371+W+Warm+Springs+Rd+a,+Henderson,+NV+89014/@36.0555377,-115.1150174,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80c8d141b142f4a3:0x197f80589c5c70ba!2m2!1d-115.0449773!2d36.0555581'  >Location </a></div>
@@ -25,7 +26,7 @@ export default function indexPage() {
       </button>
     </div>
       {/* user the link to login makes the icon a clickable link to another page */}
-      <Link to={'/login'}className="flex items-center gap-2 border border-gray-300 rounded-full py-2 px-4">
+      <Link to={'/login'}className="flex items-center gap-2 border border-gray-300 bg-orange-100 rounded-full py-2 px-4">
          {/* hamburger menu */}
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5">
   <path fillRule="evenodd" d="M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10zm0 5.25a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75a.75.75 0 01-.75-.75z" clipRule="evenodd" /></svg>
