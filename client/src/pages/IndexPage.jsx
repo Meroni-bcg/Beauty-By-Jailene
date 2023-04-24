@@ -10,7 +10,7 @@ export default function indexPage() {
     </a>
       {/* search  */}
     <div className='flex gap-2 border border-gray-300 rounded-full py-3 px-4 shadow-md shadow-gray-300'>
-      <div><Link to={'/Book'}>Book</Link> </div>
+      <div><a href= 'https://app.squarespacescheduling.com/schedule.php?owner=26626301'>Book</a> </div>
       <div className="border-l border-gray-300"></div>
       <div><a href= 'https://www.google.com/maps/dir//1371+W+Warm+Springs+Rd+a,+Henderson,+NV+89014/@36.0555377,-115.1150174,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80c8d141b142f4a3:0x197f80589c5c70ba!2m2!1d-115.0449773!2d36.0555581'  >Location </a></div>
       <div className="border-l border-gray-300"></div>
