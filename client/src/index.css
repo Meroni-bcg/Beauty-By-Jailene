@@ -7,5 +7,5 @@ input[type="text"],input[type="password"], input[type="email"] {
 }
 
 button{
-    @apply bg-orange-100 w-full rounded-full
+    @apply bg-orange-100 w-full rounded-full;
 }

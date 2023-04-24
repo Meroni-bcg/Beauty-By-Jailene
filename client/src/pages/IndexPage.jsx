@@ -1,6 +1,8 @@
 import {Link} from "react-router-dom";
 import LoginPage from "./LoginPage";
-export default function indexPage() {
+
+
+export default function IndexPage() {
     return (
         <header className="p-4 flex justify-between gap-5">
     <a href= "" className='flex items-center gap-1'>
