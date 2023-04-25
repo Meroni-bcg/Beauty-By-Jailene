@@ -6,7 +6,7 @@ const app = express();
 
 
 
-mongoose.connect('mongodb+srv://cluster0.swofsfc.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority');
+mongoose.connect('');
 
 
 
