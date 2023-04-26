@@ -41,21 +41,68 @@
   color: #888;
 }
 
-.container2 {
+#box {
+  height: 9000px;
+  width: 900px;
+  display:inline-flex;
+  position: relative;
+  }
+.container {
   height: 150px;
   width: 150px;
-  position: relative;
-  justify-content: left;
-  bottom: -500px;
-  
+  position:relative;
+  margin-right: 10px;
+  margin-top: 30px;
+  padding-top: 50px;
   
 }
-
 .container-img {
 height: 150px;
 width: 150px;
-position:absolute;
-margin-top: 50px;
 
 }
+.container2 {
+  height: 150px;
+  width: 150px;
+  position:relative;
+  margin-right: 10px;
+  margin-top: 30px;
+  padding-top: 50px;
+}
+.container-img2 {
+height: 150px;
+width: 150px;
+}
+.container3 {
+  height: 150px;
+  width: 150px;
+  position:relative;
+  margin-right: 10px;
+  margin-top: 30px;
+  padding-top: 50px;
+}
+.container-img3 {
+height: 150px;
+width: 150px;
+}
+.container4 {
+  height: 150px;
+  width: 150px;
+  position:relative;
+  margin-right: 10px;
+  margin-top: 30px;
+  padding-top: 50px;
+}
+.container-img4 {
+height: 150px;
+width: 150px;
+}
+body {
+  background-color: burlywood;
+}
+header {
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
+}
+
+
 

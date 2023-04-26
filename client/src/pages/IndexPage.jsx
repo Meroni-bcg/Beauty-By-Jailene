@@ -39,28 +39,35 @@ export default function IndexPage() {
 </div>
       </Link>
     </header> 
-    <div className="container2">
+
+<main id="box">
+
+    <div className="container">
           <div className="container-img">
-            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/editor/bry.jpg?1663353873" alt="Microblading.jpg" />
           </div>
         </div>
 
+        <div className="container2">
+          <div className="container-img2">
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail.jpg?1673046403" alt="OmbreBrows.jpg" />
+          </div>
+        </div>
+
+        <div className="container3">
+          <div className="container-img3">
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail-orig.jpg?1673046617" alt="PowderCombo.jpg.jpg" />
+          </div>
+        </div>
+
+        <div className="container4">
+          <div className="container-img4">
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade1.jpg.jpg" />
+          </div>
+        </div>
+</main>
 </body>
 
 );
-//<img src={ require('./images/image1.jpg') } />
-//C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\public\Microblade&Shade1.jpg
-//Beauty-By-Jailene\client\public\Microblade&Shade1.jpg
-/*<head>
-<body>
-    <div className="container2">
-      <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
-      <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade"/>
-    </div>
-    <div className="Pics3">
-
-    </div>
-</body>
-</head>*/
-//<img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
+  
 }
