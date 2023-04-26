@@ -17,13 +17,11 @@ export default function IndexPage() {
       <div className="border-l border-gray-300"></div>
       <div><a href= 'https://www.google.com/maps/dir//1371+W+Warm+Springs+Rd+a,+Henderson,+NV+89014/@36.0555377,-115.1150174,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80c8d141b142f4a3:0x197f80589c5c70ba!2m2!1d-115.0449773!2d36.0555581'  >Location </a></div>
       <div className="border-l border-gray-300"></div>
-      <div><a class="nav-link" href="contact.html"> Contact</a> </div>
+      <div><a href= 'http://www.beautybyjailene.com/contact.html'> Contact</a> </div>
       <div className="border-l border-gray-300"></div>
       <div><a href='http://www.beautybyjailene.com/'>Website</a> </div>
       <button className='bg-primary text-white px-0.4 rounded-full'>
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-  <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 15.75l-2.489-2.489m0 0a3.375 3.375 0 10-4.773-4.773 3.375 3.375 0 004.774 4.774zM21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-</svg>
+
 
       </button>
     </div>
