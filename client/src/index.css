@@ -7,5 +7,11 @@ input[type="text"],input[type="password"], input[type="email"] {
 }
 
 button{
-    @apply bg-orange-100 w-full rounded-full;
+    background-color: #ddd5ca;
+    width: 100%;
+    border-radius: 9999px;
+
 }
+
+
+
