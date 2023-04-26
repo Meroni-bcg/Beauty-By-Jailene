@@ -1,3 +1,5 @@
+@import url('https://fonts.google.com/specimen/Caveat?preview.text=Meroni-Inc-Portal&preview.text_type=custom');
+
 #root {
   max-width: 1280px;
   
@@ -42,10 +44,12 @@
 }
 
 #box {
-  height: 300px;
-  width: 785px;
+  height: 500px;
+  width: 1000px;
   display:inline-flex;
   position: relative;
+  justify-content: center;
+  justify-content:flex-end;
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
   }
 .container1 {
@@ -62,6 +66,8 @@
 height: 150px;
 width: 150px;
 position: absolute;
+font-family:  Caveat;
+font-size: 1.5em;
 
 
 }
@@ -71,13 +77,15 @@ position: absolute;
   position:relative;
   margin-top: 30px;
   padding-top: 35px;
-  margin-left: 40px;
+  margin-left: 10px;
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img2 {
 height: 150px;
 width: 150px;
 position: absolute;
+font-family: Caveat;
+font-size: 1.5em;
 }
 .container3 {
   height: 150px;
@@ -85,12 +93,14 @@ position: absolute;
   position:relative;
   margin-top: 30px;
   padding-top: 35px;
-  margin-left: 40px;
+  margin-left: 10px;
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img3 {
 height: 150px;
 width: 150px;
+font-family: Caveat;
+font-size: 1.5em;
 }
 .container4 {
   height: 150px;
@@ -98,22 +108,47 @@ width: 150px;
   position:relative;
   margin-top: 30px;
   padding-top: 35px;
-  margin-left: 30px;
+  margin-left: 10px;
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img4 {
 height: 150px;
 width: 150px;
+font-family: Caveat;
+font-size: 1.5em;
 }
+
+.container5 {
+  height: 150px;
+  width: 150px;
+  position:relative;
+  margin-top: 30px;
+  padding-top: 35px;
+  margin-left: 10px;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
+}
+.container-img5 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  font-family:  Caveat;
+  font-size: 1.5em;
+}
+
 body {
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
-header {
+header,span {
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
+  font-size: 2em;
+  font-family: Caveat;;
 }
-.vid {
-  height: 100;
-  width: 100;
+
+
+.words {
+  font-family: Caveat;
+  font-size: 1.5em;
+  
 }
 
 

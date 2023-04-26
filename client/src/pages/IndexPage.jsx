@@ -58,21 +58,40 @@ export default function IndexPage() {
 
         <div className="container3">
           <div className="container-img3">
-            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail-orig.jpg?1673046617" alt="PowderCombo.jpg.jpg" />
-            Powder Combo
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade1.jpg" />
+            Microblade & Shade
           </div>
         </div>
 
         <div className="container4">
           <div className="container-img4">
-            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade1.jpg.jpg" />
-            Microblade & Shade
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail-orig.jpg?1673046617" alt="PowderCombo.jpg" />
+            Powder Combo
+          </div>
+        </div>
+
+        <div className="container5">
+          <div className="container-img5">
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/editor/bry.jpg?1663353873" alt="Shade.jpg" />
+          Shade
           </div>
         </div>
 </main>
 
-  <div className="vid">
-    <source src="Beauty-By-Jailene\assets\logo-vid.mp4" alt="C:\Users\TMadd\code\project2\Beauty-By-Jailene\assets\logo-vid.mp4" type="video/mp4"/>
+<section>
+
+
+</section>
+
+  <div className="words">
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe repellendus est enim sequi, 
+    eaque quasi harum ut ullam dicta laborum aspernatur nihil dolore eos nostrum nisi commodi doloribus. Vitae, amet?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, fuga delectus ut provident quidem illo alias 
+    voluptatibus accusamus maiores. Aliquam sit dicta officia ducimus maiores laudantium ullam similique aspernatur nulla.
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore error, aut cumque dolorem doloremque reprehenderit ea rerum architecto 
+    omnis unde? Amet, cumque rem. Id vel, voluptatem explicabo cumque nisi nostrum. Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Repudiandae alias veritatis sunt quidem similique repellendus id aliquid ea culpa! Quibusdam sint 
+    repellendus qui alias accusantium laborum cum cumque in velit.
   </div>
 </body>
 
