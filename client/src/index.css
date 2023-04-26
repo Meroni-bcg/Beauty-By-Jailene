@@ -7,17 +7,12 @@ input[type="text"],input[type="password"], input[type="email"] {
 }
 
 button{
-<<<<<<< HEAD
+
     background-color: #ddd5ca;
     width: 100%;
     border-radius: 9999px;
 
-}
-
-
-
-=======
     @apply bg-orange-100 w-full rounded-full;
 }
 
->>>>>>> 80139e0b4e61bd0b7d970f42a1c3f805ddf630f9
+
