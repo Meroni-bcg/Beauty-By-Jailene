@@ -13,7 +13,7 @@ export default function Header() {
       <div className="border-l border-gray-300"></div>
       <div>Location </div>
       <div className="border-l border-gray-300"></div>
-      <div>Contact </div>
+      <div><a href= 'http://www.beautybyjailene.com/contact.html'> Contact</a> </div>
       <div className="border-l border-gray-300"></div>
       <div>Website </div>
       <button className='bg-primary text-white px-0.4 rounded-full'>
