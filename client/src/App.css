@@ -42,44 +42,51 @@
 }
 
 #box {
-  height: 9000px;
-  width: 900px;
+  height: 300px;
+  width: 785px;
   display:inline-flex;
   position: relative;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
   }
-.container {
+.container1 {
   height: 150px;
   width: 150px;
   position:relative;
-  margin-right: 10px;
   margin-top: 30px;
-  padding-top: 50px;
+  padding-top: 35px;
+  margin-left: 40px;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
   
 }
-.container-img {
+.container-img1 {
 height: 150px;
 width: 150px;
+position: absolute;
+
 
 }
 .container2 {
   height: 150px;
   width: 150px;
   position:relative;
-  margin-right: 10px;
   margin-top: 30px;
-  padding-top: 50px;
+  padding-top: 35px;
+  margin-left: 40px;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img2 {
 height: 150px;
 width: 150px;
+position: absolute;
 }
 .container3 {
   height: 150px;
   width: 150px;
   position:relative;
-  margin-right: 10px;
   margin-top: 30px;
-  padding-top: 50px;
+  padding-top: 35px;
+  margin-left: 40px;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img3 {
 height: 150px;
@@ -89,19 +96,24 @@ width: 150px;
   height: 150px;
   width: 150px;
   position:relative;
-  margin-right: 10px;
   margin-top: 30px;
-  padding-top: 50px;
+  padding-top: 35px;
+  margin-left: 30px;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 .container-img4 {
 height: 150px;
 width: 150px;
 }
 body {
-  background-color: burlywood;
+  background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
 }
 header {
   background-image: url(C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\src\assets\Images\Header.jpg);
+}
+.vid {
+  height: 100;
+  width: 100;
 }
 
 

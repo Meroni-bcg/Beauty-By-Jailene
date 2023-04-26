@@ -42,30 +42,38 @@ export default function IndexPage() {
 
 <main id="box">
 
-    <div className="container">
-          <div className="container-img">
+    <div className="container1">
+          <div className="container-img1">
             <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/editor/bry.jpg?1663353873" alt="Microblading.jpg" />
+            Microblading
           </div>
         </div>
 
         <div className="container2">
           <div className="container-img2">
             <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail.jpg?1673046403" alt="OmbreBrows.jpg" />
+            Ombre Brow
           </div>
         </div>
 
         <div className="container3">
           <div className="container-img3">
             <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/thumbnail-orig.jpg?1673046617" alt="PowderCombo.jpg.jpg" />
+            Powder Combo
           </div>
         </div>
 
         <div className="container4">
           <div className="container-img4">
             <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade1.jpg.jpg" />
+            Microblade & Shade
           </div>
         </div>
 </main>
+
+  <div className="vid">
+    <source src="Beauty-By-Jailene\assets\logo-vid.mp4" alt="C:\Users\TMadd\code\project2\Beauty-By-Jailene\assets\logo-vid.mp4" type="video/mp4"/>
+  </div>
 </body>
 
 );
