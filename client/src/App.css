@@ -41,3 +41,21 @@
   color: #888;
 }
 
+.container2 {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  justify-content: left;
+  bottom: -500px;
+  
+  
+}
+
+.container-img {
+height: 150px;
+width: 150px;
+position:absolute;
+margin-top: 50px;
+
+}
+

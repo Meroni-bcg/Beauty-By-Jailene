@@ -4,11 +4,12 @@ import LoginPage from "./LoginPage";
 
 export default function IndexPage() {
     return (
-        <header className="p-4 flex justify-between gap-5">
-    <a href= "" className='flex items-center gap-1'>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-8 h-8 -90 rotate">
-  <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5m-9-6h.008v.008H12v-.008zM12 15h.008v.008H12V15zm0 2.25h.008v.008H12v-.008zM9.75 15h.008v.008H9.75V15zm0 2.25h.008v.008H9.75v-.008zM7.5 15h.008v.008H7.5V15zm0 2.25h.008v.008H7.5v-.008zm6.75-4.5h.008v.008h-.008v-.008zm0 2.25h.008v.008h-.008V15zm0 2.25h.008v.008h-.008v-.008zm2.25-4.5h.008v.008H16.5v-.008zm0 2.25h.008v.008H16.5V15z" />
-</svg>
+      <body>
+      <header className="p-4 flex justify-between gap-5">
+        <a href= "" className='flex items-center gap-1'>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-8 h-8 -90 rotate">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5m-9-6h.008v.008H12v-.008zM12 15h.008v.008H12V15zm0 2.25h.008v.008H12v-.008zM9.75 15h.008v.008H9.75V15zm0 2.25h.008v.008H9.75v-.008zM7.5 15h.008v.008H7.5V15zm0 2.25h.008v.008H7.5v-.008zm6.75-4.5h.008v.008h-.008v-.008zm0 2.25h.008v.008h-.008V15zm0 2.25h.008v.008h-.008v-.008zm2.25-4.5h.008v.008H16.5v-.008zm0 2.25h.008v.008H16.5V15z" />
+          </svg>
 <span className='font-bold text-xl'>Beauty by Jailene</span>
     </a>
       {/* search  */}
@@ -35,12 +36,31 @@ export default function IndexPage() {
   <path fillRule="evenodd" d="M7.5 6a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM3.751 20.105a8.25 8.25 0 0116.498 0 .75.75 0 01-.437.695A18.683 18.683 0 0112 22.5c-2.786 0-5.433-.608-7.812-1.7a.75.75 0 01-.437-.695z" clipRule="evenodd" />
 </svg>
 
-
 </div>
-   
       </Link>
-     
-
     </header> 
-    );
+    <div className="container2">
+          <div className="container-img">
+            <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
+          </div>
+        </div>
+
+</body>
+
+);
+//<img src={ require('./images/image1.jpg') } />
+//C:\Users\TMadd\code\project2\Beauty-By-Jailene\client\public\Microblade&Shade1.jpg
+//Beauty-By-Jailene\client\public\Microblade&Shade1.jpg
+/*<head>
+<body>
+    <div className="container2">
+      <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
+      <img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/jackie_orig.jpg" alt="Microblade&Shade"/>
+    </div>
+    <div className="Pics3">
+
+    </div>
+</body>
+</head>*/
+//<img src="http://www.beautybyjailene.com/uploads/1/4/2/4/142461732/published/bry.jpg?1663353926" alt="Microblading.jpg" />
 }
