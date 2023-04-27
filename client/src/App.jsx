@@ -9,14 +9,14 @@ function App() {
 
  /* route to home page with search, user  */
   return (
-      <div>
+    
         <Routes>
             <Route path="/" element={<Layout />}></Route>
             <Route index element={<IndexPage />} />
             <Route path="/login" element={<LoginPage />} />
             <Route path='/register' element={<RegisterPage/>} />
           </Routes>
-      </div>
+      
   )
 }
 
