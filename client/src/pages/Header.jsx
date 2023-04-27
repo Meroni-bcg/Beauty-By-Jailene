@@ -37,8 +37,6 @@ export default function Header() {
 </div>
    
       </Link>
-     
-
-    </header> 
-    );
+  </header>
+    ); 
 }
