@@ -12,7 +12,7 @@ export default function IndexPage() {
           </svg>
           <span className='font-bold text-xl'><a href='https://www.instagram.com/browsbyjailene/'>Beauty By Jailene</a></span>
           </a>
-          <div style={{background: 'linear-gradient(110deg, #f0e3d2, #f7e3d4, #bf8f72, #873e00)', minHeight: '100vh', position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}></div>
+          {/*<div style={{background: 'linear-gradient(110deg, #f0e3d2, #f7e3d4, #bf8f72, #873e00)', minHeight: '100vh', position: 'fixed', top: 0, left: 0, right: 0, bottom: 0 }}></div>*/}
       {/* search  */}
         <div className='flex gap-2 border border-gray-500 bg-orange-100 rounded-full py-3 px-4'>
         <div><a href='https://app.squarespacescheduling.com/schedule.php?owner=26626301'>Book</a> </div>
