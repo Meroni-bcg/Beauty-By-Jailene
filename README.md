@@ -17,7 +17,7 @@ specializing in microblading
 
 
 ## General Information
-- Using Beauty-By-Jailene is simplistic all you have to do is move your mouse and hover over the tabe you want to go to and click on it. The page will load then as you start to see the page load you can scroll through the content and click on whatever function you need. This app is supposed to simplify and keep all of the businesses information and sites in one play.
+- Using Beauty-By-Jailene is simplistic all you have to do is move your mouse and hover over the tab you want to go to and click on it. The page will load then you can scroll through the content and click on whatever function you need. This app is supposed to simplify and keep all of the businesses information and sites in one play.
 - The purpose of our app is to is to have the convenience of all the links in one place. 
 - This MERN stack app was created as a milestone project among 5 members for a continuing education coding bootcamp.
 
@@ -45,11 +45,11 @@ Give credit here.
 
 
 ## Contact
-Created by [@KGriffin12](karlie.toll@yahoo.com) - feel free to contact us!
-Created by [@Meroni-bcg](amairani.bcg@gmail.com) - feel free to contact us!
-Created by [@Tmaddox]- feel free to contact us!
-Created by [@VictorPena23] - feel free to contact us!
-Created by [@Alejandrocj7] - feel free to contact us!
+- Created by [@KGriffin12](karlie.toll@yahoo.com) - feel free to contact us!
+- Created by [@Meroni-bcg](amairani.bcg@gmail.com) - feel free to contact us!
+- Created by [@Tmaddox]- feel free to contact us!
+- Created by [@VictorPena23] - feel free to contact us!
+- Created by [@Alejandrocj7] - feel free to contact us!
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
