@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-//import LoginPage from "./LoginPage";
+import LoginPage from "./LoginPage";
 
 
 export default function IndexPage() {
